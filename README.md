@@ -41,4 +41,7 @@ yarn build
 ```
 
 ### note
-after running `yarn build`, you need to copy abi directory from `src/abi` to `build/abi`
+after running `yarn build`, you need to copy abi directory from `src/abi` to `build/abi`       directory
+
+# Lottery smart contract on cloud 
+You can see deployed contract on [this link](https://lottery-chenggong.netlify.app/)
